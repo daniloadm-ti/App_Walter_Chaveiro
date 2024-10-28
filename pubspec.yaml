@@ -1,0 +1,16 @@
+name: comercio_chaves
+description: Um aplicativo para gerenciamento financeiro do comércio de chaves.
+
+# Versão do SDK do Flutter
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  shared_preferences: ^2.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
